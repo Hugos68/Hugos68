@@ -6,3 +6,5 @@
   email : 'hugokorteapple@gmail.com',
   discord : 'Hugos#8829'
 }
+
+- 🌎 Want to learn more about me check out my site: (coming soon)
