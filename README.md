@@ -7,4 +7,6 @@
   discord : 'Hugos#8829'
 }
 
+[![Hugos68's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugos68)](https://github.com/hugos68/github-readme-stats)
+
 - 🌎 Want to learn more about me? Check out my site: (coming soon)
