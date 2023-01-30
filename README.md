@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Korte</h1>
-<h3 align="center">A dedicated software developer from The Netherlands, check out my <a>[Portfolio](https://hugokorte.vercel.app/)</a></h3>
+<h3 align="center">A dedicated software developer from The Netherlands, check out my <a href="https://hugokorte.vercel.app/"><strong>portfolio</strong></a></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugos68" alt="hugos68" /></a> </p>
 
